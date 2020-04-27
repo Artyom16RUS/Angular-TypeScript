@@ -5,5 +5,5 @@ import {Component} from "@angular/core";
              templateUrl: './app/app.components.html'
            })
 export class AppComponent {
-  title = 'Микорд';
+  title = 'Главная страница';
 }
